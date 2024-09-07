@@ -13,11 +13,3 @@ class Customer:
         else:    
             raise ValueError("Name must be a string between 1 and 15 characters")  
         
-class Coffee:
-    def __init__(self, name):
-            self.name=name
-            
-    @property
-    def name(self):
-        return self._name
-           
