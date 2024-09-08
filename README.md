@@ -6,6 +6,11 @@
  - Customers can place orders for coffee, and the application keeps track of which customers have ordered which coffee, as well as the orders placed for each coffee.
 
  ## Features
+
+ - Creates customers with names.
+ - Manages customer orders.
+ - Creates coffees with names.
+ - Calculate the average price of a coffee
  
  ## Prerequisites
   - For easy usage, make sure you have the following:
