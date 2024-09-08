@@ -62,7 +62,40 @@ To use this repo, follow these steps:
 - This creates an active environment for the python programme.
 
 ### Usage
-   
+ #### Customer.py file
+ On your terminal run,
+
+        customer1 = Customer("Charles")
+        customer2 = Customer("Gift")
+
+        print(f"Customer 1: {customer1.name}")
+        print(f"Customer 2: {customer2.name}")
+
+        #Output : Customer 1: Charles
+        #output : Customer 2: "Gift"
+
+
+ #### Coffee.py file 
+
+ On your terminal run the following command:
+
+        coffee1 = Coffee("Espresso")
+        coffee2 = Coffee("Latte")
+
+
+        print(f"Coffee 1: {coffee1.name}")
+        print(f"Coffee 2: {coffee2.name}")
+
+        #output : Coffee 1 : Espresso
+        #output : Coffee 2 : Latte
+
+
+
+
+
+
+
+
 
 ## Author
  - Charles Gift           
