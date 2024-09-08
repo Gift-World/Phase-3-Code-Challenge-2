@@ -89,6 +89,20 @@ To use this repo, follow these steps:
         #output : Coffee 1 : Espresso
         #output : Coffee 2 : Latte
 
+##### average price for Coffee
+        average_price = coffee1.average_price()
+        print(f"\nAverage price of Coffee 1: ${average_price:0}") 
+
+        #output : $0   
+
+##### number of orders for each coffee
+
+        num_orders = coffee1.num_orders()
+        print(f"Number of orders for Coffee 1: {num_orders}")
+
+        
+
+
 
 
 

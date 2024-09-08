@@ -72,5 +72,10 @@ coffee2 = Coffee("Latte")
 
 print(f"Coffee 1: {coffee1.name}")
 print(f"Coffee 2: {coffee2.name}")
-      
- 
+ # Getting the average price of a coffee 
+average_price = coffee1.average_price()
+print(f"Average price of Coffee 1: ${average_price:0}")
+
+# Getting the number of orders for a coffee
+num_orders = coffee1.num_orders()
+print(f"Number of orders for Coffee 1: {num_orders}")
