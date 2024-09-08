@@ -8,7 +8,7 @@ class Customer:
         
     @property
     
-    #Gets the customers name
+    #Gets the customer's name
     def name(self):
         return self._name  
     
