@@ -2,7 +2,8 @@
 
 
 ## Description :
- - This project simulates a simple coffee shop system. It allows for the management of customers, coffee types, and orders. Customers can place orders for coffee, and the system keeps track of which customers have ordered which coffee, as well as the orders placed for each coffee.
+ - This is a simple coffee shop application that allows for the management of customers, coffee types, and orders.
+ - Customers can place orders for coffee, and the application keeps track of which customers have ordered which coffee, as well as the orders placed for each coffee.
 
  ## Features
  
